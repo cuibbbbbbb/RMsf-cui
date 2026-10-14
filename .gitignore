@@ -1,0 +1,7 @@
+.venv/
+best.pt
+*.mp4
+*.MP4
+runs/
+__pycache__/
+.idea/
